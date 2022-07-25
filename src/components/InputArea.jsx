@@ -1,4 +1,8 @@
 import React from "react";
+function handleChange() {}
+
+function inputText() {}
+function addItem() {}
 
 function InputArea() {
   return (
